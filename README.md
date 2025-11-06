@@ -20,7 +20,6 @@ Peripheral: Logitech G Pro X, Keychron K6, LG UltraGear 27", Edifier R1700BT
 Final Price: Rp 5,750,000 --- Build Successful! ---
 
 
-
 ## Cara Menjalankan
 1. Buka terminal dan arahkan ke folder `vortexpc`.
 2. Compile semua file:
