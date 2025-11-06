@@ -31,4 +31,16 @@ java vortexpc.Main
 ## Status
 Final build telah diuji dan lolos regression testing. Showcase berhasil dijalankan tanpa error. Proyek siap dirilis dan dikumpulkan sesuai instruksi Misi 4.
 
+## Personal Reflection
+
+### Nabila Firda Suryani (3124600104)
+
+1. **Momen “Aha!” Terbesar**  
+Selama praktikum ini, saya baru benar-benar menyadari bahwa mata kuliah OOP tidak sesederhana praktik biasa yang pernah saya lakukan. Ketika dihadapkan pada studi kasus nyata seperti ini, semuanya terasa jauh lebih rumit dan menantang. Apalagi dengan tekanan waktu, saya merasa logika saya benar-benar dipaksa bekerja keras. Game ini membuat saya sadar bahwa merancang sistem yang fleksibel, bersih secara struktur (clean code), dan dibangun dari nol bukanlah hal yang mudah. Dibutuhkan pemahaman desain yang matang, ketenangan dalam berpikir, dan kemampuan untuk menyeimbangkan antara fungsionalitas dan struktur — dan semua itu tidak bisa dilakukan secara terburu-buru.
+
+2. **Kelemahan Terbesar Saya/Tim**  
+Saat menjadi Blue Team, serangan yang paling tidak kami antisipasi adalah ketika Red Team menyoroti ketergantungan antar komponen yang terlalu kuat. Kami kurang memperhatikan prinsip pemisahan tanggung jawab dan abstraksi sejak awal, sehingga beberapa bagian sistem menjadi terlalu terikat satu sama lain. Kelemahan ini muncul karena fokus awal kami lebih pada fungsionalitas dan showcase, bukan pada desain yang scalable dan defensif.
+
+3. **Skill Baru Paling Berharga**  
+Skill paling berharga yang saya pelajari hari ini adalah kemampuan melakukan refactoring manual dan audit kode secara sistematis. Saya jadi lebih peka terhadap code smell seperti Feature Envy dan mulai memahami bagaimana memindahkan method ke class yang lebih tepat. Kemampuan ini sangat relevan untuk dunia kerja, karena kualitas sistem tidak hanya diukur dari fungsinya, tetapi juga dari kemudahan pemeliharaan dan pengembangannya di masa depan.
 
